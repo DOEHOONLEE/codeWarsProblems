@@ -9,3 +9,4 @@
 4. **2019-Oct-16** : "Chess Board Cell Color" - **[006]**
 5. **2019-Oct-18** : "Valid Phone Number" - **[007]**
 6. **2019-Oct-19** : "Square Every Digit" - **[008]**
+7. **2019-Oct-20** : "*Square Every Digit 2ND SOLUTION*" - **[008]** + "Canvas Fun#1 - Draw Lines" - **[009]**
