@@ -11,4 +11,7 @@
 6. **2019-Oct-19** : "Square Every Digit" - **[008]**
 7. **2019-Oct-20** : "*Square Every Digit 2ND SOLUTION*" - **[008]** + "Canvas Fun#1 - Draw Lines" - **[009]**
 8. **2019-Oct-22** : "Multiples of 3 or 5" - **[010]** + "Bit Counting" - **[011]**
-9. **2020-Mar-23** : "Vowel Count" - **[009]**
+9. **2020-Mar-23** : "Vowel Count" - **[012]**
+10. **2020-Mar-24** : "Highest And Lowest" - **[013]**
+11. **2020-Mar-25** : "Shortest Word" - **[014]**
+12.
