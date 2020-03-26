@@ -14,4 +14,4 @@
 9. **2020-Mar-23** : "Vowel Count" - **[012]**
 10. **2020-Mar-24** : "Highest And Lowest" - **[013]**
 11. **2020-Mar-25** : "Shortest Word" - **[014]**
-12.
+12. **2020-Mar-26** : "Find the Odd Int" - **[015]**
