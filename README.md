@@ -28,6 +28,9 @@
 **2020-Mar-26** : "Find the Odd Int" - **[015]**
 
 **2020-Apr-01** :
-"The Feast of the many Beasts" - [016]
-"Abbreviate a Two Word Name" - [017]
-"Century From Year" - [018]
+"The Feast of the many Beasts" - **[016]**
+"Abbreviate a Two Word Name" - **[017]**
+"Century From Year" - **[018]**
+"Return Negative" - **[019]**
+
+**2020-Apr-01** : "Complementary DNA" - **[020]**
