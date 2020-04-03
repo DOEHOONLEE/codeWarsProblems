@@ -22,3 +22,16 @@ function XO(str) {
     });
     return !(num);
 }
+
+const XO = str => {
+    let num = 0;
+    str.split("").forEach(c => {
+      if (c.toLowerCase() == "x") {
+        num++;
+      }
+      if (c.toLowerCase() == "o") {
+        num--;
+      }
+    });
+    return !(num);
+}
