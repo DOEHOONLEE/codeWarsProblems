@@ -3,29 +3,79 @@
 ### this is my own practice for Codewars problems
 
 
-**2019-Oct-11** : "Square Every Digit of a number" - **[001]**
+**2019-Oct-11** :
+
+"Square Every Digit of a number" - **[001]**
+
+
+```js
+// replace commas
+replace(/,/g, "")
+
+// power of a number
+Math.pow(base, exponent)
+```
 ***
-**2019-Oct-12** : "List Filtering" & "Count the Digit" - **[002] & [003]**
+**2019-Oct-12** :
+
+"List Filtering" - **[002]**
+
+
+"Count the Digit" - **[003]**
+
+```js
+// return a new array with integers only
+const filter_list = l => l.filter(c => (typeof c == "number"));
+```
 ***
-**2019-Oct-15** : "Eureka" & "Does My Number Look Big" - **[004] & [005]**
+**2019-Oct-15** :
+
+"Eureka" - **[004]**
+
+
+"Does My Number Look Big" - **[005]**
 ***
-**2019-Oct-16** : "Chess Board Cell Color" - **[006]**
+**2019-Oct-16** :
+
+"Chess Board Cell Color" - **[006]**
 ***
-**2019-Oct-18** : "Valid Phone Number" - **[007]**
+**2019-Oct-18** :
+
+"Valid Phone Number" - **[007]**
 ***
-**2019-Oct-19** : "Square Every Digit" - **[008]**
+**2019-Oct-19** :
+
+"Square Every Digit" - **[008]**
 ***
-**2019-Oct-20** : "*Square Every Digit 2ND SOLUTION*" - **[008]** + "Canvas Fun#1 - Draw Lines" - **[009]**
+**2019-Oct-20** :
+
+"*Square Every Digit 2ND SOLUTION*" - **[008]**
+
+
+"Canvas Fun#1 - Draw Lines" - **[009]**
 ***
-**2019-Oct-22** : "Multiples of 3 or 5" - **[010]** + "Bit Counting" - **[011]**
+**2019-Oct-22** :
+
+"Multiples of 3 or 5" - **[010]**
+
+
+"Bit Counting" - **[011]**
 ***
-**2020-Mar-23** : "Vowel Count" - **[012]**
+**2020-Mar-23** :
+
+"Vowel Count" - **[012]**
 ***
-**2020-Mar-24** : "Highest And Lowest" - **[013]**
+**2020-Mar-24** :
+
+"Highest And Lowest" - **[013]**
 ***
-**2020-Mar-25** : "Shortest Word" - **[014]**
+**2020-Mar-25** :
+
+"Shortest Word" - **[014]**
 ***
-**2020-Mar-26** : "Find the Odd Int" - **[015]**
+**2020-Mar-26** :
+
+"Find the Odd Int" - **[015]**
 ***
 **2020-Apr-01** :
 

@@ -29,3 +29,34 @@ function tripledouble(num1, num2) {
   });
   return (result) ? 1 : 0;
 }
+
+    // sample #1
+
+function tripledouble(num1, num2) {
+  let nums = [...Array(10).keys()];
+    
+  return +nums.some(num => 
+    num1.toString().includes(num.toString().repeat(3)) &&
+    num2.toString().includes(num.toString().repeat(2))
+  );
+}
+
+    // sample #2
+
+function tripledouble(num1, num2) {
+  for (let i = 0; i < 10; i++) {
+    if (new RegExp(`${i}{3}`).test(num1) && new RegExp(`${i}{2}`).test(num2)) {
+      return 1;
+    }
+  }
+  return 0;
+}
+
+    // sample #3
+
+function tripledouble(num1, num2) {
+  const triples = String(num1).match(/(\d)\1\1/g);
+  const doubles = String(num2).match(/(\d)\1/g);
+
+  return triples && doubles && triples.some(v => doubles.join('').includes(v[0])) ? 1 : 0;
+}
