@@ -130,6 +130,10 @@ const filter_list = l => l.filter(c => (typeof c == "number"));
 
 "Array.Diff" - **[031]**
 ***
+**2020-Apr-09** :
+
+"Write Number in Expanded Form" - **[032]**
+
 
 "" - **[]**
 

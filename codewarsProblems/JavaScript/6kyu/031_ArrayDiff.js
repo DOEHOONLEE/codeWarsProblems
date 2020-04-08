@@ -13,3 +13,5 @@ function arrayDiff(a, b) {
   let answer = a.filter(x => !b.includes(x));
   return answer;
 }
+
+const arrayDiff = (a, b) => a.filter(x => !b.includes(x));
