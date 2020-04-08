@@ -125,10 +125,11 @@ const filter_list = l => l.filter(c => (typeof c == "number"));
 **2020-Apr-06** :
 
 "Triple Trouble" - **[030] STUDY AGAIN**
+***
+*2020-Apr-8** :
 
-
-"" - **[]**
-
+"Array.Diff" - **[031]**
+***
 
 "" - **[]**
 
