@@ -126,7 +126,7 @@ const filter_list = l => l.filter(c => (typeof c == "number"));
 
 "Triple Trouble" - **[030] STUDY AGAIN**
 ***
-*2020-Apr-8** :
+**2020-Apr-8** :
 
 "Array.Diff" - **[031]**
 ***
@@ -136,10 +136,13 @@ const filter_list = l => l.filter(c => (typeof c == "number"));
 
 
 "Counting Duplicates" - **[033]**
-
+***
+**2020-Apr-10** :
 
 "Sum of Digits/ Digital Root" - **[034]**
 
 
-"" - **[]**
+"Duplicate Encoder" - **[035] STUDY AGAIN**
 
+
+"" - **[]**
