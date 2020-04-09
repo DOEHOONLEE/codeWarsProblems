@@ -138,5 +138,8 @@ const filter_list = l => l.filter(c => (typeof c == "number"));
 "Counting Duplicates" - **[033]**
 
 
+"Sum of Digits/ Digital Root" - **[034]**
+
+
 "" - **[]**
 
