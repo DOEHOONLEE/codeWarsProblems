@@ -16,10 +16,23 @@ For example:
 */
 
 function sc(s){
-  return s.replace("/\w/g", s.split("").forEach(function(c) {
-      if (s.incldues(c.toLocaleLowerCase()) && s.incldues(c.toUpperCase())) {
-          
-      }
-      return (s.includes(c.toLowerCase()) && s.includes(c.toUpperCase())) ? c : "";
-  }))
+    var str = "";
+  for (var i=0;i<s.length;i++) {
+    if ((s[i] == s[i].toLowerCase() && s.includes(s[i].toUpperCase()))) {
+      str = str + (s[i]+"");
+    }
+    if ((s[i] == s[i].toUpperCase() && s.includes(s[i].toLowerCase()))) {
+      str = str + (s[i]+"");
+    }
+  }
+  return str;
 }
+
+const sc = s => (s+"").split("").filter(c => ).filter((v,i,a) => 
+(v == v.toLowerCase() && a.includes(v.toUpperCase())) || (v == v.toUpperCase() && a.includes(v.toLowerCase())));
+
+
+
+
+
+

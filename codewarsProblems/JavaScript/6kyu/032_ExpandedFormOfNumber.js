@@ -17,3 +17,5 @@ function expandedForm(num) {
   }
   return answer.join(" + ");
 }
+
+const expandedForm = num => (num+"").split("").map((v,i,a) => v + "0".repeat((a.length-i-1))).filter(c => c > 0).join(" + ");
