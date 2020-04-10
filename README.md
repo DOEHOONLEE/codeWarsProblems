@@ -145,4 +145,10 @@ const filter_list = l => l.filter(c => (typeof c == "number"));
 "Duplicate Encoder" - **[035] STUDY AGAIN**
 
 
-"" - **[]**
+"Playing With Digits" - **[036]**
+
+
+"Find Screen Size" - **[037]**
+
+
+"Alternate Capitalization" - **[038]**
