@@ -152,3 +152,6 @@ const filter_list = l => l.filter(c => (typeof c == "number"));
 
 
 "Alternate Capitalization" - **[038]**
+
+
+"Human Readable Time" - **[039] FACTOR AND MAKE IT READABLE**
