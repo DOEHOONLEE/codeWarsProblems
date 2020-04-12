@@ -156,3 +156,26 @@ const filter_list = l => l.filter(c => (typeof c == "number"));
 **2020-Apr-11** :
 
 "Human Readable Time" - **[039] FACTOR AND MAKE IT READABLE**
+***
+**2020-Apr-12** :
+
+"The Range() Function" - **[040]**
+***
+**2020-Apr-13** :
+
+
+***
+**2020-Apr-14** :
+
+
+***
+**2020-Apr-15** :
+
+
+***
+**2020-Apr-11** :
+
+
+***
+**2020-Apr-11** :
+
