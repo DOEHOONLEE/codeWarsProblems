@@ -28,11 +28,5 @@ function sc(s){
   return str;
 }
 
-const sc = s => (s+"").split("").filter(c => ).filter((v,i,a) => 
+const sc = s => (s+"").split("").filter(c => s.filter((v,i,a) => 
 (v == v.toLowerCase() && a.includes(v.toUpperCase())) || (v == v.toUpperCase() && a.includes(v.toLowerCase())));
-
-
-
-
-
-

@@ -163,6 +163,7 @@ const filter_list = l => l.filter(c => (typeof c == "number"));
 ***
 **2020-Apr-13** :
 
+"Bishop And Pawn" - **[041] NOT all tests passed. Pleaes retry**
 
 ***
 **2020-Apr-14** :
