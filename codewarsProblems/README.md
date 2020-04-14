@@ -1,0 +1,183 @@
+# codeWarsProblems
+
+### this is my own practice for Codewars problems
+
+
+**2019-Oct-11** :
+
+"Square Every Digit of a number" - **[001]**
+
+
+```js
+// replace commas
+replace(/,/g, "")
+
+// power of a number
+Math.pow(base, exponent)
+```
+***
+**2019-Oct-12** :
+
+"List Filtering" - **[002]**
+
+
+"Count the Digit" - **[003]**
+
+```js
+// return a new array with integers only
+const filter_list = l => l.filter(c => (typeof c == "number"));
+```
+***
+**2019-Oct-15** :
+
+"Eureka" - **[004]**
+
+
+"Does My Number Look Big" - **[005]**
+***
+**2019-Oct-16** :
+
+"Chess Board Cell Color" - **[006]**
+***
+**2019-Oct-18** :
+
+"Valid Phone Number" - **[007]**
+***
+**2019-Oct-19** :
+
+"Square Every Digit" - **[008]**
+***
+**2019-Oct-20** :
+
+"*Square Every Digit 2ND SOLUTION*" - **[008]**
+
+
+"Canvas Fun#1 - Draw Lines" - **[009]**
+***
+**2019-Oct-22** :
+
+"Multiples of 3 or 5" - **[010]**
+
+
+"Bit Counting" - **[011]**
+***
+**2020-Mar-23** :
+
+"Vowel Count" - **[012]**
+***
+**2020-Mar-24** :
+
+"Highest And Lowest" - **[013]**
+***
+**2020-Mar-25** :
+
+"Shortest Word" - **[014]**
+***
+**2020-Mar-26** :
+
+"Find the Odd Int" - **[015]**
+***
+**2020-Apr-01** :
+
+"The Feast of the many Beasts" - **[016]**
+
+
+"Abbreviate a Two Word Name" - **[017]**
+
+
+"Century From Year" - **[018]**
+
+
+"Return Negative" - **[019]**
+***
+**2020-Apr-02** :
+
+"Complementary DNA" - **[020]**
+
+
+"Even Numbers In an Array" - **[021]**
+
+
+"Exes and Ohs" - **[022]**
+
+
+"Form the Largest" - **[023]**
+
+
+"Build a Square" - **[024] STUDY AGAIN**
+***
+**2020-Apr-03** :
+
+"Reverse Words" - **[025] STUDY AGAIN** 
+
+
+"Unique Order" - **[026]** CHECK "Father and Son"
+
+
+"Coding 3min: Father and Son" - **[027]**
+
+
+"Two Sum" - **[028] STUDY AGAIN** 
+
+
+"Create Phone Number" - **[029] STUDY AGAIN**
+***
+**2020-Apr-06** :
+
+"Triple Trouble" - **[030] STUDY AGAIN**
+***
+**2020-Apr-8** :
+
+"Array.Diff" - **[031]**
+***
+**2020-Apr-09** :
+
+"Write Number in Expanded Form" - **[032]**
+
+
+"Counting Duplicates" - **[033]**
+***
+**2020-Apr-10** :
+
+"Sum of Digits/ Digital Root" - **[034]**
+
+
+"Duplicate Encoder" - **[035] STUDY AGAIN**
+
+
+"Playing With Digits" - **[036]**
+
+
+"Find Screen Size" - **[037]**
+
+
+"Alternate Capitalization" - **[038]**
+***
+**2020-Apr-11** :
+
+"Human Readable Time" - **[039]**
+***
+**2020-Apr-12** :
+
+"The Range() Function" - **[040]**
+***
+**2020-Apr-13** :
+
+"Bishop And Pawn" - **[041] NOT all tests passed. Pleaes retry**
+
+***
+**2020-Apr-14** :
+
+"Math Issues" - **[042]**
+
+***
+**2020-Apr-15** :
+
+
+***
+**2020-Apr-11** :
+
+
+***
+**2020-Apr-11** :
+
