@@ -2,8 +2,8 @@
 
 | # |    Date    | Problem | Level | Note |
 |---|     ---    |   ---   | --- |  --- |
-|1  |2019-Oct-11 | Square Every Digit | 7kyu   - |
-|2  |2019-Oct-12 | List Filtering | 7kyu  - |
+|1  |2019-Oct-11 | Square Every Digit | 7kyu   |
+|2  |2019-Oct-12 | List Filtering | 7kyu  |
 |3  |2019-Oct-12 | Count the Digit | 7kyu |  - |
 |4  |2019-Oct-15 | Eureka | 6kyu |  - |
 |5  |2019-Oct-15 | Does My Number Look Big | 6kyu |  - |
