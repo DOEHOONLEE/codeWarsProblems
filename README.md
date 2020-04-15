@@ -44,6 +44,6 @@
 |40 |2020-Apr-12 | The Range() Function | 6kyu |  - |
 |41 |2020-Apr-13 | Bishop And Pawn | 6kyu |  - |
 |42 |2020-Apr-14 | Math Issues | 5kyu |  - |
-|42 |2020-Apr-15 |  
+|42 |2020-Apr-15 | Valid Parentheses | 5kyu | Retry
 |42 |2020-Apr-16 |  
 |42 |2020-Apr-17 |  
