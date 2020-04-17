@@ -47,4 +47,6 @@
 |43 |2020-Apr-15 | Valid Parentheses | 5kyu | Retry
 |44 |2020-Apr-16 | Greatest Position Distance Between Matching Array Values
  | 6kyu | - |
-|45 |2020-Apr-17 |  
+|45 |2020-Apr-17 | Validate My Password | 6kyu | - |
+|46 |2020-Apr-18 | - | - | - |
+|47 |2020-Apr-19 | - | - | - |
