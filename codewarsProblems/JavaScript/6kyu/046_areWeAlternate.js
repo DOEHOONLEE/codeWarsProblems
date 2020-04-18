@@ -8,6 +8,7 @@ isAlt("apple")
 isAlt("banana")
 // true
 */
+
 function isAlt(word) {
   let vowels = ["a","e","i","o","u"];
   for (let i=0; i<word.length-1; i++) {
