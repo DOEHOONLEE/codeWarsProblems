@@ -33,3 +33,11 @@ function iqTest(numbers) {
     }
   }
 }
+
+// => REFACTORED
+
+function iqTest(numbers){
+  let even = numbers.split(" ").filter(c => c%2 == 0);
+  let odd = numbers.split(" ").filter(c => c%2 == 1);
+  return even.length > odd.length ? numbers.split(" ").indexOf(odd[0])+1 : numbers.split(" ").indexOf(even[0])+1
+}
