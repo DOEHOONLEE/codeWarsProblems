@@ -31,3 +31,18 @@ else {
     return even[0];
   }
 }
+
+
+// => REFACTORED
+
+function findOutlier(integers){
+  let odd = 0;
+  let even = 0;
+  for (let i=0; i<integers.length; i++) {
+    if (integers[i]%2 == 0) {
+      even++;
+    }
+    else {odd++}
+  }
+  return odd > even ? integers.filter(c => (c%2 == 0))[0] : integers.filter(c => (c%2 !== 0))[0]
+}
