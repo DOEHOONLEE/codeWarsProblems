@@ -17,3 +17,9 @@ var uniqueInOrder = function(iterable){
   }
   return arr;
 }
+
+// => REFACTOR
+
+var uniqueInOrder = function(iterable){
+  return (typeof iterable == "object") ? iterable.filter((v,i,a) => a[i] !== a[i+1]) : iterable.split("").filter((v,i,a) => a[i] !== a[i+1]);
+}
