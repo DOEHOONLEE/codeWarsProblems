@@ -26,3 +26,34 @@ function alphabetPosition(text) {
   text = array.join().replace(/,/g , " ");
   return text;
 }
+
+// => REFACTORED
+
+function alphabetPosition(text) {
+  return text
+  // split string into an array
+  .split("")
+  
+  // filter alphabets - ignore anything else
+  .filter(function(t) {
+    return /[a-zA-Z]/.test(t)
+  })
+  
+  // get alphabet position by using charCodeAt
+  .map(function(c) {
+    return c.toLowerCase().charCodeAt(0) - 96
+  })
+  
+  // make it back to a string
+  .join(" ");
+}
+
+// without comments..
+
+function alphabetPosition(text) {
+  return text.split("").filter(function(t) {
+    return /[a-zA-Z]/.test(t)
+  }).map(function(c) {
+    return c.toLowerCase().charCodeAt(0) - 96
+  }).join(" ");
+}
